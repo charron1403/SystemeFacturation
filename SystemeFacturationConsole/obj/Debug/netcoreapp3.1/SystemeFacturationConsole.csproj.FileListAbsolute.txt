@@ -1,0 +1,17 @@
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SystemeFacturationConsole.exe
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SystemeFacturationConsole.deps.json
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SystemeFacturationConsole.runtimeconfig.json
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SystemeFacturationConsole.runtimeconfig.dev.json
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SystemeFacturationConsole.dll
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SystemeFacturationConsole.pdb
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SFMP.dll
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\bin\Debug\netcoreapp3.1\SFMP.pdb
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.csproj.AssemblyReference.cache
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.AssemblyInfoInputs.cache
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.AssemblyInfo.cs
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.csproj.CoreCompileInputs.cache
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.csproj.CopyComplete
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.dll
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.pdb
+C:\Users\charr\Desktop\SystemeFacturationConsole\SystemeFacturationConsole\obj\Debug\netcoreapp3.1\SystemeFacturationConsole.genruntimeconfig.cache
