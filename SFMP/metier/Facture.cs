@@ -45,8 +45,8 @@ namespace SFMP.metier
                 }
             }
         }
-        public decimal Tps { get => TPS * SousTotal;}
-        public decimal Tvq { get => TVQ * SousTotal;}
+        public decimal Tps { get => TPS * SousTotal; }
+        public decimal Tvq { get => TVQ * SousTotal; }
         public decimal Total { get => SousTotal + Tps + Tvq; }
         public bool RecalculerSousTotal { get => recalculerSousTotal; set => recalculerSousTotal = value; }
 
